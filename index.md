@@ -8,8 +8,8 @@ I've been spending a lot of time dipping my toes into digital history over the p
 
 * [Week Three](https://github.com/sidxi/week-3/blob/master/Journal.md)
 
-* [Week Four](https://github.com/sidxi/week-four/blob/master/Journal.md)
+* [Week Four](https://github.com/sidxi/week-four/blob/master/journal.md)
 
-* [Week Five](https://github.com/sidxi/week-five/blob/master/Journal.md)
+* [Week Five](https://github.com/sidxi/week-five/blob/master/journal.md)
 
 ![gif ftw](https://media.giphy.com/media/6NVOQr1I5H1MA/giphy.gif)
