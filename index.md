@@ -12,4 +12,6 @@ I've been spending a lot of time dipping my toes into digital history over the p
 
 * [Week Five](https://github.com/sidxi/week-five/blob/master/journal.md)
 
+* [Week Six](https://github.com/sidxi/week-six/blob/master/journal.md)
+
 ![gif ftw](https://media.giphy.com/media/6NVOQr1I5H1MA/giphy.gif)
